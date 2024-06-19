@@ -1,9 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -16,7 +13,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Naresh Kumar](https://github.com/Naresh Kumar/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Naresh Kumar](https://github.com/Nareshnaveen17/Portfolio). Thanks!
 
 ## Built With
 
