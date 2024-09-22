@@ -39,13 +39,7 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAngular />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiRuby />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col>
+      </Col>      
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
@@ -54,16 +48,7 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJqueryLogo />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiAws />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-      </Col>
+      </Col>      
     </Row>
   );
 }

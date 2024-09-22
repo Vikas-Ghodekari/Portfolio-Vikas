@@ -61,46 +61,46 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-              <li className="social-icons">
-                <a
-                  href="https://github.com/nareshnaveen17"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/nareshnaveen17"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/challa-naresh-kumar/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/nareshnaveen17"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+            <li className="social-icons">
+              <a
+                href="https://https://github.com/Vikas-Ghodekari"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://twitter.com/VGhodekari"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiOutlineTwitter />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.linkedin.com/in/vikky-vikas-2827a367/"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.instagram.com/mr_ghodekari"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillInstagram />
+              </a>
+            </li>
             </ul>
           </Col>
         </Row>

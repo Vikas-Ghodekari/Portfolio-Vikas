@@ -13,7 +13,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Naresh Kumar](https://github.com/Nareshnaveen17/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Vikas Ghodekari](https://github.com/Vikas-Ghodekari/Portfolio). Thanks!
 
 ## Built With
 

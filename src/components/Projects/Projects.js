@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="LIMS plus v5"
-              description="It is a Forensic application which consists of integration of 4 majorapplications (1 web application and 3 API applications). V5 is a casemanagement tool providing versatile software to leverage the powerof technology with numerous customizable features like evidencetracking, analytical results and lab management information toprovide a clear view of your laboratory and every case in it"
+              title="DIMS"
+              description="This project is aimed at developing the Dealers Information Management System that is of importance to an organization. The Dealers Information Management System is used to track the Dealer Information and summarize all related activities of the Dealer and generate a report for different aspects. This is a web application by which organization can manage information of the dealers. This project has several modules such as Financial Dashboard, Complaint Management, Administration, User Management Change Password,Upload and Download files etc."
             
             />
           </Col>
@@ -35,8 +35,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="CIMS"
-              description=".NET 6.0 MVC Web Application designed for Forensic domain. Theapplication mainly focuses on organizing labs, chemicals, storagesand tracking chemicals in terms of Usage and their procedures tocheck quality, composition etc."
+              title="Monthly Checklist"
+              description="This project is aimed at developing the Monthly Checklist Information of Plant Heads that is of importance to an organization. The Monthly Checklist is used to track the Organization Plants Information on Monthly basis. This is a web application by which organization can manage Monthly Closing Checklist. This project has several modules such as Closing Checklist, Questions, Categories, Users, Locations and Remainder etc."
             />
           </Col>
 
@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="LIMS plus DNA"
-              description="DNA is a stand-alone DNA application designed to reduce DNAbacklogs by automating forensic sample processing for both caseworkand databanks as well as automating the delivery of DNA profiles tolocal, state, and national databanks."
+              title="Sample Tracker"
+              description="This project is designed to manage the details of material samples used in the manufacturing process for a building materials company. It includes sample tests and compiles the results into reports. The project consists of several modules, including user reports, report viewing, sample data entry, and sample assignment."
             />
           </Col>
         </Row>
