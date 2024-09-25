@@ -8,8 +8,7 @@ function Type() {
         strings: [
           "Dotnet Full Stack Developer",
           "Software Developer",
-          "Freelancer",         
-          "MEMER",
+          "Freelancer",    
         ],
         autoStart: true,
         loop: true,
